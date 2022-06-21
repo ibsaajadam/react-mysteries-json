@@ -1,0 +1,162 @@
+[
+  {
+    "director": "Sidney Lumet",
+    "link": "https://www.imdb.com/title/tt0050083/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 9,
+    "title": "12 Angry Men",
+    "year": 1957
+  },
+  {
+    "director": "Orson Welles",
+    "link": "https://www.imdb.com/title/tt0033467/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.3,
+    "title": "Citizen Kane",
+    "year": 1941
+  },
+  {
+    "director": "Alfred Hitchcock",
+    "link": "https://www.imdb.com/title/tt0052357/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.3,
+    "title": "Vertigo",
+    "year":  1958
+  },
+  {
+    "director": "Alfred Hitchcock",
+    "link": "https://www.imdb.com/title/tt0053125/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.3,
+    "title": "North by Northwest",
+    "year":  1959
+  },
+  {
+    "director": "Alfred Hitchcock",
+    "link": "https://www.imdb.com/title/tt0054215/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.5,
+    "title": "Psycho",
+    "year":  1960
+  },
+  {
+    "director": "Roman Polanski",
+    "link": "https://www.imdb.com/title/tt0071315/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.2,
+    "title": "Chinatown",
+    "year":  1974
+  },
+  {
+    "director": "Alfred Hitchcock",
+    "link": "https://www.imdb.com/title/tt0047396/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.5,
+    "title": "Rear Window",
+    "year":  1954
+  },
+  {
+    "director": "Carol Reed",
+    "link": "https://www.imdb.com/title/tt0041959/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.1,
+    "title": "The Third Man",
+    "year":  1949
+  },
+  {
+    "director": "John Huston",
+    "link": "https://www.imdb.com/title/tt0033870/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8,
+    "title": "The Maltese Falcon",
+    "year":  1941
+  },
+  {
+    "director": "Rebecca",
+    "link": "https://www.imdb.com/title/tt0032976/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.1,
+    "title": "Rebecca",
+    "year":  1940
+  },
+  {
+    "director": "Alfred Hitchcock",
+    "link": "https://www.imdb.com/title/tt0034248/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 7.3,
+    "title": "Suspicion",
+    "year":  1941
+  },
+  {
+    "director": "Neil Jordan",
+    "link": "https://www.imdb.com/title/tt0104036/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 7.2,
+    "title": "The Crying Game",
+    "year":  1992
+  },
+  {
+    "director": "Martin Scorsese",
+    "link": "https://www.imdb.com/title/tt1130884/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.2,
+    "title": "Shutter Island",
+    "year":  2010
+  },
+  {
+    "director": "Fritz Lang",
+    "link": "https://www.imdb.com/title/tt0022100/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.3,
+    "title": "M",
+    "year":  1931
+  },
+  {
+    "director": "Roman Polanski",
+    "link": "https://www.imdb.com/title/tt0059646/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 7.6,
+    "title": "Repulsion",
+    "year":  1965
+  },
+  {
+    "director": "Curtis Hanson",
+    "link": "https://www.imdb.com/title/tt0119488/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.2,
+    "title": "L.A. Confidential",
+    "year":  1997
+  },
+  {
+    "director": "Christopher Nolan",
+    "link": "https://www.imdb.com/title/tt0209144/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.4,
+    "title": "Memento",
+    "year":  2000
+  },
+  {
+    "director": "David Fincher",
+    "link": "https://www.imdb.com/title/tt0114369/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.6,
+    "title": "Se7en",
+    "year":  1995
+  },
+  {
+    "director": "Clint Eastwood",
+    "link": "https://www.imdb.com/title/tt0327056/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 7.9,
+    "title": "Mystic River",
+    "year":  2003
+  },
+  {
+    "director": "Bryan Singer",
+    "link": "https://www.imdb.com/title/tt0114814/?ref_=ttls_li_tt",
+    "language": "English",
+    "rating": 8.5,
+    "title": "The Usual Suspects",
+    "year":  1995
+  }
+]
